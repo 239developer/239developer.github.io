@@ -1,6 +1,7 @@
 .button {
   border: 15px solid green; 
-  margin: 50px;
+  padding: 100px;
+  margin: 25px;
 }
 
 h1 {
